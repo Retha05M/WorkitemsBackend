@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\WorkItemsProject-30Aug22\dashboard\backend_boilerplate\6.5.0\aspnet-core\src\WorkItemBackend.Application\bin\Debug\net5.0\WorkItemBackend.Application.deps.json
+C:\Users\User\Desktop\WorkItemsProject-30Aug22\dashboard\backend_boilerplate\6.5.0\aspnet-core\src\WorkItemBackend.Application\bin\Debug\net5.0\WorkItemBackend.Application.dll
+C:\Users\User\Desktop\WorkItemsProject-30Aug22\dashboard\backend_boilerplate\6.5.0\aspnet-core\src\WorkItemBackend.Application\bin\Debug\net5.0\ref\WorkItemBackend.Application.dll
+C:\Users\User\Desktop\WorkItemsProject-30Aug22\dashboard\backend_boilerplate\6.5.0\aspnet-core\src\WorkItemBackend.Application\bin\Debug\net5.0\WorkItemBackend.Application.pdb
+C:\Users\User\Desktop\WorkItemsProject-30Aug22\dashboard\backend_boilerplate\6.5.0\aspnet-core\src\WorkItemBackend.Application\bin\Debug\net5.0\WorkItemBackend.Application.xml
+C:\Users\User\Desktop\WorkItemsProject-30Aug22\dashboard\backend_boilerplate\6.5.0\aspnet-core\src\WorkItemBackend.Application\bin\Debug\net5.0\WorkItemBackend.Core.dll
+C:\Users\User\Desktop\WorkItemsProject-30Aug22\dashboard\backend_boilerplate\6.5.0\aspnet-core\src\WorkItemBackend.Application\bin\Debug\net5.0\WorkItemBackend.Core.pdb
+C:\Users\User\Desktop\WorkItemsProject-30Aug22\dashboard\backend_boilerplate\6.5.0\aspnet-core\src\WorkItemBackend.Application\obj\Debug\net5.0\WorkItemBackend.Application.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\WorkItemsProject-30Aug22\dashboard\backend_boilerplate\6.5.0\aspnet-core\src\WorkItemBackend.Application\obj\Debug\net5.0\WorkItemBackend.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\WorkItemsProject-30Aug22\dashboard\backend_boilerplate\6.5.0\aspnet-core\src\WorkItemBackend.Application\obj\Debug\net5.0\WorkItemBackend.Application.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\WorkItemsProject-30Aug22\dashboard\backend_boilerplate\6.5.0\aspnet-core\src\WorkItemBackend.Application\obj\Debug\net5.0\WorkItemBackend.Application.AssemblyInfo.cs
+C:\Users\User\Desktop\WorkItemsProject-30Aug22\dashboard\backend_boilerplate\6.5.0\aspnet-core\src\WorkItemBackend.Application\obj\Debug\net5.0\WorkItemBackend.Application.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\WorkItemsProject-30Aug22\dashboard\backend_boilerplate\6.5.0\aspnet-core\src\WorkItemBackend.Application\obj\Debug\net5.0\WorkItemBackend.Application.dll
+C:\Users\User\Desktop\WorkItemsProject-30Aug22\dashboard\backend_boilerplate\6.5.0\aspnet-core\src\WorkItemBackend.Application\obj\Debug\net5.0\ref\WorkItemBackend.Application.dll
+C:\Users\User\Desktop\WorkItemsProject-30Aug22\dashboard\backend_boilerplate\6.5.0\aspnet-core\src\WorkItemBackend.Application\obj\Debug\net5.0\WorkItemBackend.Application.xml
+C:\Users\User\Desktop\WorkItemsProject-30Aug22\dashboard\backend_boilerplate\6.5.0\aspnet-core\src\WorkItemBackend.Application\obj\Debug\net5.0\WorkItemBackend.Application.pdb
